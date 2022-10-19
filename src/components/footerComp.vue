@@ -3,7 +3,7 @@
     <div class="all">
       <div class="cardapio">
         <div class="images-1">
-          <img src="@/img/image 19.png" alt="" />
+          <img src="@/img/image19.png" alt="" />
         </div>
         <div class="info">
           <span>cardapio</span>
@@ -11,7 +11,7 @@
       </div>
       <div class="vegetariano">
         <div class="images-3">
-          <img src="@/img/image 23.png" alt="" />
+          <img src="@/img/image23.png" alt="" />
         </div>
         <div class="info">
           <span>vegetariano</span>
@@ -19,7 +19,7 @@
       </div>
       <div class="pagamento">
         <div class="images-2">
-          <img src="@/img/image 21.png" alt="" />
+          <img src="@/img/image21.png" alt="" />
         </div>
         <div class="info">
           <span>pagamento</span>
